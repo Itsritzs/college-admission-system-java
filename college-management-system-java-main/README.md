@@ -2,6 +2,31 @@
 
 A Desktop Application for managing a `college` data. It's developed using `Java` programming language & `MySQL` database.
 
+## Features
+-Cources Management
+-Subjects Management
+-Student Marks Management
+-Students Management
+-admission list
+
+## Installation
+Import this project into your IDE
+Create new Database and set name as 'collegedata' after that import 'collegedata.sql' file (Attached with this folder) in this database.
+
+## DB 
+url="jdbc:mysql://localhost:3306/Collegedata";
+user name="root";
+password="";
+
+## How to run
+Start Database Server
+Open "src/collegeapplication/chat/Server.java" and Run this file to start chat server
+Open "src/collegeapplication/login/LoginPageFrame.java" and Run this file to start application
+Admin userid : admin
+Admin password : admin
+Faculty userid : Faculty id
+Student Userid : cource-sem-rollnumber (IT-1-1001)
+
 ## DB Structure
 <img src="/screenshots/db_structure.png" align="center" alt="img" />
 
