@@ -1,4 +1,4 @@
-# College Management System
+# College Admission Management System
 
 A Desktop Application for managing a `college` data. It's developed using `Java` programming language & `MySQL` database.
 
